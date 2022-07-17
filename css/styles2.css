@@ -1,0 +1,172 @@
+.header-link {
+  background-color: inherit;
+  color: #11999E;
+  text-decoration: none;
+  margin-left: 20px;
+  margin-right: 20px;
+
+}
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+  font-weight: bold;
+
+}
+.crnt-header-link {
+  background-color: inherit;
+  color: #11B99E;
+  text-decoration: underline;
+  margin-left: 20px;
+  margin-right: 20px;
+
+}
+p {
+  line-height: 2;
+  color: black;
+}
+.header-link:hover {
+  color: #444444;
+}
+.man {
+  height: 60px;
+  width: 60px;
+  position: relative;
+  right: 850px;
+}
+
+#crnt-heading {
+  text-align: center;
+}
+.stationary {
+  background-color: #EAF6F6;
+  padding: 50px;
+  padding-bottom: 0;
+  margin: 0;
+  text-align: right;
+  position: sticky;
+  top: 0;
+}
+
+.footer-link:hover {
+  color: white;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.6rem;
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  margin: 0;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+.bottom {
+  background-color: #66BFBF;
+  padding-top: 50px;
+  padding-bottom: 25px;
+}
+.footer-link:hover {
+  color: white;
+}
+
+.footer-link {
+  background-color: inherit;
+  color: #11999E;
+  text-decoration: none;
+  margin-left: 20px;
+  margin-right: 20px;
+
+}
+
+.be {
+  text-align: left;
+  background-color: #FFE6E6;
+  margin: 0;
+  padding: 20px;
+}
+
+.twelfth {
+  text-align: left;
+  background-color: #F2D1D1;
+  margin: 0;
+  padding: 20px;
+}
+.matric {
+  text-align: left;
+  background-color: #FFE6E6;
+  margin: 0;
+  padding: 20px;
+}
+span {
+  color: #541690;
+}
+
+
+
+
+
+
+
+.mid {
+  text-align: center;
+  background-color: #F7E2E2;
+  padding: 50px;
+}
+
+.project-img {
+  height: 180px;
+  width: 180px;
+  padding: 0;
+  border-color: #7766F4;
+  border-style: solid;
+  border-width: 7px;
+}
+
+
+.project {
+  text-align: center;
+  display: inline-block;
+  height: 260px;
+  width: 190px;
+  background-color: #F7E2E2;
+  margin: 30px;
+  border-style: solid;
+  border-width: 15px;
+  border-radius: 7%;
+  padding: 5px;
+  border-color: #7777F4;
+}
+
+
+.resume-img {
+  height: 1500px;
+  width: 1000px;
+  padding: 0;
+  border-color: #555555;
+  border-style: solid;
+  border-width: 7px;
+  margin-bottom: 0;
+}
+
+.resume {
+  background-color: #F7E2E2;
+  margin-bottom: 0;
+}
